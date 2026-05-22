@@ -1,0 +1,11 @@
+{
+  "font": "Times New Roman",
+  "color": "000000",
+  "relevance_threshold": 7,
+  "title": { "size_pt": 13, "bold": true },
+  "section_label": { "size_pt": 11, "bold": true },
+  "section_body": { "size_pt": 11, "bold": false },
+  "report_header": { "text": "Intel AI News Report", "size_pt": 16, "bold": true },
+  "page": { "width_dxa": 12240, "height_dxa": 15840, "margin_dxa": 1440 },
+  "spacing": { "after_title_dxa": 80, "after_section_dxa": 60, "after_article_dxa": 240 }
+}
